@@ -1,1 +1,1 @@
-# chat-app
+# chat room in Django
